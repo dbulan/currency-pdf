@@ -1,0 +1,7 @@
+{
+    "name": "dimka/dimka",
+    "description": "my test app",
+    "require": {
+        "dompdf/dompdf": "^1.0"
+    }
+}
