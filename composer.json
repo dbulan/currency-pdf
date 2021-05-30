@@ -2,6 +2,11 @@
     "name": "dimka/dimka",
     "description": "my test app",
     "require": {
-        "dompdf/dompdf": "^1.0"
+        "dompdf/dompdf": "^1.0",
+        "php-http/guzzle6-adapter": "^2.0",
+        "florianv/swap": "^4.3",
+        "php-http/curl-client": "^2.2",
+        "nyholm/psr7": "^1.4",
+        "php-http/message": "^1.11"
     }
 }
